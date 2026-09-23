@@ -1,6 +1,6 @@
 <img src="banner.png" width="100%" alt="Aditya Pathare Banner">
 
-<h1 align="center">👋 Hi, I'm Aditya </h1>
+<h1 align="center">👋 Hi, I'm Aditya Pathare </h1>
 
 <h3 align="center">
 Data Analytics Enthusiast • Python Developer • AI/ML Explorer
