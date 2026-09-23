@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" alt="Aditya Pathare Banner">
+<img src="banner.png" width="100%" alt="Aditya  Banner">
 
 <h1 align="center">👋 Hi, I'm Aditya Pathare </h1>
 
